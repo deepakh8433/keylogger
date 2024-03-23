@@ -35,11 +35,11 @@ befor run the keylogger we have make changes in our gmail account sending mail <
 <h3>It will periodically send email reports to the specified email address.</h3>
 
 <h3>Configuration</h3>
-&nbsp;You can customize the following settings in the script:
+<b>You can customize the following settings in the script:</b><br><br>
 
-&nbsp;Email sender and receiver addresses.
-&nbsp;Email sending frequency for system information and keystroke logs.
-&nbsp;Ignored keys that should not be logged.
+&nbsp;Email sender and receiver addresses.<br>
+&nbsp;Email sending frequency for system information and keystroke logs.<br>
+&nbsp;Ignored keys that should not be logged.<br>
 <br>
 <h2>Disclaimer:</h2><br>
 &nbsp;This keylogger is intended for educational and security assessment purposes only. Do not use it for malicious intent or illegal activities. Use responsibly and only on systems you own or have explicit permission to monitor.
