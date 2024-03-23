@@ -1,34 +1,44 @@
-<h1>Keylogge</h1> <br>
-This is a Python keylogger capable of logging keystrokes and system information, and sending reports via email.
+<h1>Keylogger with Automated Setup and Cross-Platform Support</h1> <br>
+This Python script serves as a versatile keylogger capable of automatically setting up its environment by downloading necessary dependencies. It supports various operating systems, making it accessible and easy to use for monitoring keyboard activities.
+![key](https://github.com/deepakh8433/keylogger/assets/164472207/cb367e8c-8f17-4b10-b30d-375c17ba48d1)
 
-Features
-Logs keystrokes in real-time.
-Retrieves system information such as hostname, IP address, processor, and operating system.
-Sends periodic email reports with system information and keystroke logs.
-Easy to use and customize.
+<br><br>
+<h3>Features</h3>
+<b>Automated Dependency Installation:</b> The script automatically installs required libraries and dependencies using pip3 if they are not already present.<br>
+<b>Cross-Platform Compatibility:</b> Designed to function seamlessly across different operating systems including Windows, Linux, and macOS.<br>
+<b>Effortless Execution:</b> Users can initiate the keylogger simply by executing the script without manual setup or library installation.<br>
+<b>Periodic Reporting:</b> The keylogger periodically sends reports via email containing system information and logged keystrokes.<br>
 
-1. Installation
-  Clone the repository:
+<h3>Installation</h3>
+&nbsp;Clone the repository: <br><br>
 
-  git clone https://github.com/deepah8433/keylogger.git
+&nbsp;git clone https://github.com/deepah8433/keylogger.git<br><br>
+&nbsp;cd keylogger/<br><br>
 
-2. Configure your email credentials and settings in the script.
 
-3. Run the script:
+<h3>Configure your email.</h3>
+befor run the keylogger we have make changes in our gmail account sending mail <br>
+(in this we are using 2 gmail accaount <b>first</b> is disposal and its less secure password and <b>second<b> is recever mail)<br><br>
+ &nbsp; step 1: if you are using gmail then click manage your google account<br>
+ &nbsp; step 2: click security<br>
+ &nbsp; step 3: add 2 step verification then click 2 step verification<br>
+ &nbsp; step 4: scroll down you'll get app password<br>
+ &nbsp; step 5: click add a name that you want then you get a password copy that password paste in keylogger disposal password<br>
 
-  python3 keylogger.py
+<h3>Run the script:</h3> 
+&nbsp;python3 keylogger.py
 
-4. The keylogger will start monitoring keystrokes and system information in the background.
+<h3>The keylogger will start monitoring keystrokes and system information in the background.</h3>
 
-5. It will periodically send email reports to the specified email address.
+<h3>It will periodically send email reports to the specified email address.</h3>
 
-Configuration
-You can customize the following settings in the script:
+<h3>Configuration</h3>
+&nbsp;You can customize the following settings in the script:
 
-Email sender and receiver addresses.
-Email sending frequency for system information and keystroke logs.
-Ignored keys that should not be logged.
+&nbsp;Email sender and receiver addresses.
+&nbsp;Email sending frequency for system information and keystroke logs.
+&nbsp;Ignored keys that should not be logged.
 <br>
-Disclaimer:<br>
-This keylogger is intended for educational and security assessment purposes only. Do not use it for malicious intent or illegal activities. Use responsibly and only on systems you own or have explicit permission to monitor.
+<h2>Disclaimer:</h2><br>
+&nbsp;This keylogger is intended for educational and security assessment purposes only. Do not use it for malicious intent or illegal activities. Use responsibly and only on systems you own or have explicit permission to monitor.
 
