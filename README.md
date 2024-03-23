@@ -35,7 +35,7 @@ befor run the keylogger we have make changes in our gmail account sending mail <
 <h3>It will periodically send email reports to the specified email address.</h3>
 
 <h3>Configuration</h3>
-<b>You can customize the following settings in the script:</b><br><br>
+You can customize the following settings in the script:<br><br>
 
 &nbsp;Email sender and receiver addresses.<br>
 &nbsp;Email sending frequency for system information and keystroke logs.<br>
