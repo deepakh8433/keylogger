@@ -1,6 +1,7 @@
 <h1>Keylogger with Automated Setup and Cross-Platform Support</h1> <br>
-This Python script serves as a versatile keylogger capable of automatically setting up its environment by downloading necessary dependencies. It supports various operating systems, making it accessible and easy to use for monitoring keyboard activities.
-![key](https://github.com/deepakh8433/keylogger/assets/164472207/cb367e8c-8f17-4b10-b30d-375c17ba48d1)
+This Python script serves as a versatile keylogger capable of automatically setting up its environment by downloading necessary dependencies. It supports various operating systems, making it accessible and easy to use for monitoring keyboard activities.<br>
+![key](https://github.com/deepakh8433/keylogger/assets/164472207/0aca001a-1673-4d70-a3db-89a85ba731a5)
+
 
 <br><br>
 <h3>Features</h3>
